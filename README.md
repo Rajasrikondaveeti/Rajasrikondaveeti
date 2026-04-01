@@ -1,39 +1,180 @@
-<h1 align="center">Hi, I'm Rajasri Kondaveeti 👋</h1>
-<p align="center">
-  <b>ML Engineer · LLM Builder · AI Tinkerer</b><br/>
-  Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)<br/>
-  Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/rajasri-kondaveeti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rajikondaveeti7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Rajasrikondaveeti&style=for-the-badge&color=blueviolet" />
-</p>
-What I'm About
-I'm a Machine Learning Engineer who loves building things that actually work — from RAG pipelines and AI agents to fraud detection models running on millions of healthcare records. I'm obsessed with the intersection of LLMs + real-world systems.
-Currently leveling up through the LLM Engineering course by Ed Donner (Udemy) and pushing all my AI experiments live on GitHub. Come watch me learn in public 🚀
-🔥 Currently Working On
+<div align="center">
 
-📚 LLM Engineering — Ed Donner's course (Udemy): RAG, agents, fine-tuning, prompt engineering
-🤖 Pushing AI experiments to GitHub as I go
-🏥 ML pipelines at UnitedHealth Group — fraud detection, risk models, 5M+ claims records
-🔬 Mixture-of-Experts (MoE) research at Texas Tech University
-🛠️ Tech Stack
+# Hi, I'm Rajasri Kondaveeti 👋
 
+### ML Engineer · LLM Builder · AI Tinkerer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajasri-kondaveeti/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajikondaveeti7@gmail.com) 
+*Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)*
+*Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajasrikondaveeti)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajikondaveeti7@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajasrikondaveeti&style=for-the-badge&color=blueviolet)
 
-🌱 Learning in Public
+</div>
 
-Every AI experiment I run from Ed Donner's LLM Engineering course gets pushed here.
-Follow along if you're on the same journey!
+---
 
+## 🧠 About Me
 
-<p align="center">
-  <i>"The best way to learn AI is to build AI."</i><br/>
-  ⭐ Star a repo · 🤝 Let's connect · 💬 DM me anything
-</p>
+I'm a Machine Learning Engineer who loves building things that **actually work** — from RAG pipelines and AI agents to fraud detection models running on millions of healthcare records.
+
+I'm obsessed with the intersection of **LLMs + real-world systems**. Currently leveling up through the **LLM Engineering course by Ed Donner (Udemy)** and pushing all my AI experiments live on GitHub. Come watch me learn in public 🚀
+
+---
+
+## 🔥 Currently Working On
+
+- 📚 **LLM Engineering** — Ed Donner's course (Udemy): RAG, agents, fine-tuning, prompt engineering — pushing every experiment to GitHub
+- 🤖 **AI Experiments** — building and shipping LLM-powered tools publicly
+- 🏥 **ML @ UnitedHealth Group** — fraud detection & risk models on 5M+ healthcare claims records
+- 🔬 **MoE Research** — Mixture-of-Experts architectures at Texas Tech University
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & LLM Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+`RAG` `QLoRA` `Prompt Engineering` `AI Agents` `MCP Servers` `FAISS` `Pinecone` `Qdrant`
+
+### 🧪 ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+`PySpark` `Feature Engineering` `Hyperparameter Tuning` `MLOps` `Experiment Tracking`
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+`CI/CD` `SageMaker` `MLOps Pipelines`
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+`FAISS` `Pinecone` `Qdrant` (Vector DBs)
+
+### 🌐 Web & APIs
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🏥 Machine Learning Engineer · UnitedHealth Group *(Jan 2025 – Present)*
+> Atlanta, GA
+
+- Analyzed multi-million member healthcare claims datasets for utilization & billing patterns
+- Built feature pipelines using demographic, clinical & claims data for fraud detection
+- **🎯 +18% fraud detection accuracy · -15% false positives**
+- **⚡ 5M+ claims records processed · -30% data prep time**
+- Implemented MLflow for experiment tracking & model governance
+
+### 🎓 Research Assistant · Texas Tech University *(Jan 2025 – Dec 2025)*
+> Lubbock, TX
+
+- Researched Mixture-of-Experts (MoE) architectures & multimodal deep learning
+- Optimized PyTorch models via hyperparameter tuning & ablation studies
+- Explored sparse MoE routing for improved computational efficiency
+
+### 💻 Associate Software Engineer · Miepick Infotech *(Jan 2023 – Jul 2024)*
+> Bangalore, India
+
+- Built RESTful APIs & reusable ReactJS components connecting enterprise data sources
+- **📈 -15% page load time · 80%+ test coverage via Jest**
+- Optimized CI/CD workflows; followed Agile sprint planning
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Medical Image Re-Identification System
+> *Deep Learning · CNN · Flask · Docker*
+
+End-to-end deep learning pipeline for patient re-identification across multi-modal medical images. Applied CLAHE & edge detection for preprocessing; exposed via Flask REST API; containerized with Docker.
+
+---
+
+### 💼 Jobify — AI-Powered Job Portal
+> *ReactJS · OpenAI API · Tailwind CSS · REST*
+
+Fully functional job portal with real-time search and **OpenAI-powered intelligent job suggestions**. Responsive, accessible UI with clean API integration.
+
+---
+
+### 🤖 LLM Engineering Experiments *(Ongoing)*
+> *LangChain · HuggingFace · OpenAI · FAISS · Pinecone*
+
+Collection of AI experiments from **Ed Donner's LLM Engineering course** — RAG pipelines, AI agents, QLoRA fine-tuning, and more. Pushing every experiment here as I learn!
+
+---
+
+### 🔍 Enterprise RAG Search
+> *Databricks · Azure OpenAI · Pinecone · FAISS*
+
+Intelligent enterprise search with RAG on Databricks. Improved information retrieval accuracy across large document corpora using vector databases & Azure OpenAI.
+
+---
+
+## 📜 Certifications
+
+| Badge | Certification |
+|---|---|
+| 🏅 | **AWS Certified Machine Learning Engineer – Associate** |
+| 🎓 | **AI Engineer Core Track** — LLM Engineering, RAG, QLoRA, Agents · Coursera |
+| 📖 | **LLM Engineering** — Ed Donner · Udemy *(In Progress)* |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rajasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasrikondaveeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasrikondaveeti&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajasrikondaveeti&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Learning in Public
+
+> I'm currently going through **Ed Donner's LLM Engineering course** on Udemy.
+> Every experiment, every RAG pipeline, every AI agent I build gets pushed here.
+>
+> **Follow along if you're on the same journey!** ⭐
+
+---
+
+<div align="center">
+
+*"The best way to learn AI is to build AI."*
+
+**⭐ Star a repo · 🤝 Let's connect on LinkedIn · 💬 Reach out anytime**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
+
+</div>
