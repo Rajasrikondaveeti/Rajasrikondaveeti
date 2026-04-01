@@ -5,7 +5,7 @@
 ### ML Engineer · LLM Builder · AI Tinkerer
 
 *Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)*
-*Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time*
+*Building AI from scratch, one experiment at a time*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajasrikondaveeti)
@@ -79,33 +79,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. Currently l
 
 ---
 
-## 💼 Experience
-
-### 🏥 Machine Learning Engineer · UnitedHealth Group *(Jan 2025 – Present)*
-> Atlanta, GA
-
-- Analyzed multi-million member healthcare claims datasets for utilization & billing patterns
-- Built feature pipelines using demographic, clinical & claims data for fraud detection
-- **🎯 +18% fraud detection accuracy · -15% false positives**
-- **⚡ 5M+ claims records processed · -30% data prep time**
-- Implemented MLflow for experiment tracking & model governance
-
-### 🎓 Research Assistant · Texas Tech University *(Jan 2025 – Dec 2025)*
-> Lubbock, TX
-
-- Researched Mixture-of-Experts (MoE) architectures & multimodal deep learning
-- Optimized PyTorch models via hyperparameter tuning & ablation studies
-- Explored sparse MoE routing for improved computational efficiency
-
-### 💻 Associate Software Engineer · Miepick Infotech *(Jan 2023 – Jul 2024)*
-> Bangalore, India
-
-- Built RESTful APIs & reusable ReactJS components connecting enterprise data sources
-- **📈 -15% page load time · 80%+ test coverage via Jest**
-- Optimized CI/CD workflows; followed Agile sprint planning
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏥 Medical Image Re-Identification System
@@ -153,8 +126,6 @@ Intelligent enterprise search with RAG on Databricks. Improved information retri
 ![Rajasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasrikondaveeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasrikondaveeti&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajasrikondaveeti&theme=tokyonight&hide_border=true)
 
 </div>
 
