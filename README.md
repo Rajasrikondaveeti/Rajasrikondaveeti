@@ -5,12 +5,11 @@
 ### ML Engineer · LLM Builder · AI Tinkerer
 
 *Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)*
-*Building AI from scratch, one experiment at a time*
+*Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajasrikondaveeti)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajikondaveeti7@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Rajasrikondaveeti&style=for-the-badge&color=blueviolet)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajikondaveeti7@gmail.com)
 
 </div>
 
@@ -36,46 +35,102 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. Currently l
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & LLM Engineering
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
-`RAG` `QLoRA` `Prompt Engineering` `AI Agents` `MCP Servers` `FAISS` `Pinecone` `Qdrant`
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-9B59B6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F39C12?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-27AE60?style=for-the-badge)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-2980B9?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-E74C3C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC143C?style=for-the-badge)
+
+---
 
 ### 🧪 ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-`PySpark` `Feature Engineering` `Hyperparameter Tuning` `MLOps` `Experiment Tracking`
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org)
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8E44AD?style=for-the-badge)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-1ABC9C?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-2C3E50?style=for-the-badge)
+
+---
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-`CI/CD` `SageMaker` `MLOps Pipelines`
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6DB33F?style=for-the-badge)
+![MLOps Pipelines](https://img.shields.io/badge/MLOps_Pipelines-2C3E50?style=for-the-badge)
+
+---
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-`FAISS` `Pinecone` `Qdrant` (Vector DBs)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+
+![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-E74C3C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC143C?style=for-the-badge)
+
+---
 
 ### 🌐 Web & APIs
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+---
+
+## 💼 Experience
+
+### 🏥 Machine Learning Engineer · UnitedHealth Group *(Jan 2025 – Present)*
+> Atlanta, GA
+
+- Analyzed multi-million member healthcare claims datasets for utilization & billing patterns
+- Built feature pipelines using demographic, clinical & claims data for fraud detection
+- **🎯 +18% fraud detection accuracy · -15% false positives**
+- **⚡ 5M+ claims records processed · -30% data prep time**
+- Implemented MLflow for experiment tracking & model governance
+
+### 🎓 Research Assistant · Texas Tech University *(Jan 2025 – Dec 2025)*
+> Lubbock, TX
+
+- Researched Mixture-of-Experts (MoE) architectures & multimodal deep learning
+- Optimized PyTorch models via hyperparameter tuning & ablation studies
+- Explored sparse MoE routing for improved computational efficiency
+
+### 💻 Associate Software Engineer · Miepick Infotech *(Jan 2023 – Jul 2024)*
+> Bangalore, India
+
+- Built RESTful APIs & reusable ReactJS components connecting enterprise data sources
+- **📈 -15% page load time · 80%+ test coverage via Jest**
+- Optimized CI/CD workflows; followed Agile sprint planning
 
 ---
 
@@ -126,6 +181,8 @@ Intelligent enterprise search with RAG on Databricks. Improved information retri
 ![Rajasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasrikondaveeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasrikondaveeti&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajasrikondaveeti&theme=tokyonight&hide_border=true)
 
 </div>
 
