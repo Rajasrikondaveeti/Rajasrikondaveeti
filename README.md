@@ -107,8 +107,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. Currently l
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 ### 🏥 Medical Image Re-Identification System
