@@ -5,7 +5,7 @@
 ### ML Engineer · LLM Builder · AI Tinkerer
 
 *Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)*
-*Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time*
+*Building AI from scratch, one experiment at a time*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajasrikondaveeti)
@@ -25,7 +25,7 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. Currently l
 
 ## 🔥 Currently Working On
 
-- 📚 **LLM Engineering** — Ed Donner's course (Udemy): RAG, agents, fine-tuning, prompt engineering — pushing every experiment to GitHub
+- 📚 **LLM Engineering** —actively exploring RAG, agents, fine-tuning & prompt engineering
 - 🤖 **AI Experiments** — building and shipping LLM-powered tools publicly
 - 🏥 **ML @ UnitedHealth Group** — fraud detection & risk models on 5M+ healthcare claims records
 - 🔬 **MoE Research** — Mixture-of-Experts architectures at Texas Tech University
