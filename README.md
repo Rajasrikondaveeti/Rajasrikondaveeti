@@ -107,31 +107,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. Currently l
 
 ---
 
-## 💼 Experience
-
-### 🏥 Machine Learning Engineer · UnitedHealth Group *(Jan 2025 – Present)*
-> Atlanta, GA
-
-- Analyzed multi-million member healthcare claims datasets for utilization & billing patterns
-- Built feature pipelines using demographic, clinical & claims data for fraud detection
-- **🎯 +18% fraud detection accuracy · -15% false positives**
-- **⚡ 5M+ claims records processed · -30% data prep time**
-- Implemented MLflow for experiment tracking & model governance
-
-### 🎓 Research Assistant · Texas Tech University *(Jan 2025 – Dec 2025)*
-> Lubbock, TX
-
-- Researched Mixture-of-Experts (MoE) architectures & multimodal deep learning
-- Optimized PyTorch models via hyperparameter tuning & ablation studies
-- Explored sparse MoE routing for improved computational efficiency
-
-### 💻 Associate Software Engineer · Miepick Infotech *(Jan 2023 – Jul 2024)*
-> Bangalore, India
-
-- Built RESTful APIs & reusable ReactJS components connecting enterprise data sources
-- **📈 -15% page load time · 80%+ test coverage via Jest**
-- Optimized CI/CD workflows; followed Agile sprint planning
-
 ---
 
 ## 🚀 Featured Projects
