@@ -90,9 +90,9 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. Currently l
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 
-![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-E74C3C?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC143C?style=for-the-badge)
+![FAISS Vector DB](https://img.shields.io/badge/FAISS_Vector_DB-E74C3C?style=for-the-badge)
+![Pinecone Vector DB](https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge)
+![Qdrant Vector DB](https://img.shields.io/badge/Qdrant_Vector_DB-DC143C?style=for-the-badge)
 
 ---
 
@@ -139,7 +139,7 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. Currently l
 ### 🏥 Medical Image Re-Identification System
 > *Deep Learning · CNN · Flask · Docker*
 
-End-to-end deep learning pipeline for patient re-identification across multi-modal medical images. Applied CLAHE & edge detection for preprocessing; exposed via Flask REST API; containerized with Docker.
+End-to-end deep learning pipeline for patient re-identification across multi-modal medical images. Applied CLAHE & edge detection; exposed via Flask REST API; containerized with Docker.
 
 ---
 
@@ -174,15 +174,11 @@ Intelligent enterprise search with RAG on Databricks. Improved information retri
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Rajasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasrikondaveeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasrikondaveeti&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajasrikondaveeti&theme=tokyonight&hide_border=true)
+[![Rajasri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajasrikondaveeti&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rajasrikondaveeti)
 
 </div>
 
