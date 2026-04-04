@@ -189,9 +189,9 @@ Intelligent enterprise search with RAG on Databricks. Improved information retri
 
 <br/>
 **⭐ Star a repo · 🤝 Let's connect on LinkedIn · 💬 Reach out anytime**
-</br>
+
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
-<br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
