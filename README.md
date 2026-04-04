@@ -19,7 +19,7 @@
 
 I'm a Machine Learning Engineer who loves building things that **actually work** — from RAG pipelines and AI agents to fraud detection models running on millions of healthcare records.
 
-I'm obsessed with the intersection of **LLMs + real-world systems**.I'm deep in the world of **AI** right now — experimenting with multi-agent architectures, pushing the limits of RAG, exploring fine-tuning strategies, and building tools that actually solve real problems. Every experiment gets shipped and documented here on GitHub.
+I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in the world of **AI** right now — experimenting with multi-agent architectures, pushing the limits of RAG, exploring fine-tuning strategies, and building tools that actually solve real problems. Every experiment gets shipped and documented here on GitHub.
 
 > *"Not just studying ML — engineering systems that survive in production."*
 
@@ -189,8 +189,9 @@ Intelligent enterprise search with RAG on Databricks. Improved information retri
 
 <br/>
 **⭐ Star a repo · 🤝 Let's connect on LinkedIn · 💬 Reach out anytime**
-<br/>
+</br>
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
