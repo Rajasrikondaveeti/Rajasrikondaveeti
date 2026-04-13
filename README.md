@@ -2,7 +2,7 @@
 
 # Hi, I'm Rajasri Kondaveeti 👋
 
-### ML Engineer · LLM Builder · AI Tinkerer
+### AI/ML Engineer · LLM Builder · AI Tinkerer
 
 *Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)*
 *Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time*
