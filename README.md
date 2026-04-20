@@ -1,7 +1,6 @@
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%27m%20Rajasri%20Kondaveeti%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Multi-Agent%20Architectures%20%C2%B7%20RAG&descSize=17&descColor=C9D1D9&descAlignY=55" width="100%" />](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%27m%20Rajasri%20Kondaveeti%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Multi-Agent%20Architectures%20%C2%B7%20RAG&descSize=17&descColor=C9D1D9&descAlignY=55
-)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Rajasri%20Kondaveeti%20👋&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20and%20ML%20Engineer%20·%20LLM%20Systems%20·%20Multi-Agent%20Architectures%20·%20RAG&descSize=16&descColor=C9D1D9&descAlignY=55)
 <br/>
 
 ### `Machine Learning Engineer` · `LLM Systems Builder` · `AI Architect`
