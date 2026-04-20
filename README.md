@@ -135,10 +135,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 
 ---
 
-<div align="center">
-
-*"Not just studying ML — engineering systems that survive in production."*
-
 <br/>
 **⭐ Star a repo · 🤝 Let's connect on LinkedIn · 💬 Reach out anytime**
 
