@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rajasri%20Kondaveeti&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20LLM%20Systems%20%7C%20Multi-Agent%20AI&descSize=16&descColor=C9D1D9&descAlignY=55" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Rajasri%20Kondaveeti%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Multi-Agent%20Architectures%20%C2%B7%20RAG&descSize=17&descColor=C9D1D9&descAlignY=55" width="100%" />
 <br/>
 
 ### `Machine Learning Engineer` · `LLM Systems Builder` · `AI Architect`
