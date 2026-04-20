@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Rajasri%20Kondaveeti%20👋&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20and%20ML%20Engineer%20·%20LLM%20Systems%20·%20Multi-Agent%20Architectures%20·%20RAG&descSize=16&descColor=C9D1D9&descAlignY=55)
 <br/>
 
-
 *Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)*
 *Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time*
 
