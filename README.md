@@ -111,45 +111,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Medical Image Re-Identification System
-> *Deep Learning · CNN · Flask · Docker*
-
-End-to-end deep learning pipeline for patient re-identification across multi-modal medical images. Applied CLAHE & edge detection; exposed via Flask REST API; containerized with Docker.
-
----
-
-### 💼 Jobify — AI-Powered Job Portal
-> *ReactJS · OpenAI API · Tailwind CSS · REST*
-
-Fully functional job portal with real-time search and **OpenAI-powered intelligent job suggestions**. Responsive, accessible UI with clean API integration.
-
----
-
-### 🤖 AI Agents & LLM Systems *(Active)*
-`LangChain` `HuggingFace` `OpenAI` `QLoRA`
-
-Hands-on exploration of **advanced AI systems** — multi-agent workflows, RAG pipelines, QLoRA fine-tuning, tool-using agents, and prompt engineering at scale.
-
----
-
-### 🔍 Enterprise RAG Search
-> *Databricks · Azure OpenAI · Pinecone · FAISS*
-
-Intelligent enterprise search with RAG on Databricks. Improved information retrieval accuracy across large document corpora using vector databases & Azure OpenAI.
-
----
-
-## 📜 Certifications
-
-| Badge | Certification |
-|---|---|
-| 🏅 | **AWS Certified Machine Learning Engineer – Associate** |
-| 🎓 | **AI Engineer Core Track** — LLM Engineering, RAG, QLoRA, Agents · Coursera |
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
