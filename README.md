@@ -25,15 +25,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 
 ---
 
-## 🔥 Currently Working On
-
-- 📚 **LLM Engineering** — Ed Donner's course (Udemy): RAG, agents, fine-tuning, prompt engineering — pushing every experiment to GitHub
-- 🤖 **AI Experiments** — building and shipping LLM-powered tools publicly
-- 🏥 **ML @ UnitedHealth Group** — fraud detection & risk models on 5M+ healthcare claims records
-- 🔬 **MoE Research** — Mixture-of-Experts architectures at Texas Tech University
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & LLM Engineering
