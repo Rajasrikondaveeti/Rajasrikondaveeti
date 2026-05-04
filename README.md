@@ -90,12 +90,14 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ [ML From Scratch — 27-Module Roadmap](https://github.com/Rajasrikondaveeti/ml-from-scratch-roadmap)
-> Structured learning path from **Python fundamentals** to advanced ML algorithms, all implemented from scratch.
+### ⚖️ PreLegal — AI Legal Assistant
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> AI-powered legal research assistant using **RAG + LLMs** to simplify legal document analysis and Q&A. Built for accessibility.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 
 </td>
 </tr>
