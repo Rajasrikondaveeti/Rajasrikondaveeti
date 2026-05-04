@@ -90,14 +90,15 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ PreLegal — AI Legal Assistant
+### ⚖️ [PreLegal — Legal Agreement Platform](https://github.com/Rajasrikondaveeti/prelegal)
 
-> AI-powered legal research assistant using **RAG + LLMs** to simplify legal document analysis and Q&A. Built for accessibility.
+Platform for drafting & exporting common legal agreements. Features a **split-panel NDA Creator** with live preview, 13 pre-drafted templates, and browser-based PDF export.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
