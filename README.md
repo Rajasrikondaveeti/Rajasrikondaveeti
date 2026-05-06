@@ -57,6 +57,23 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 <tr>
 <td width="50%" valign="top">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 [Skin AI — Skin Cancer Detection](https://github.com/Rajasrikondaveeti/skin-ai)
+
+> Dual-backbone ensemble (**ResNet50 + EfficientNetV2-S**) trained on HAM10000 to classify 7 skin lesion types. Includes **Grad-CAM** heatmaps and a live Hugging Face demo.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HF Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+</td>
+</tr>
+</table>
+
 ### 🧪 [AI Portfolio — End-to-End Experiments](https://github.com/Rajasrikondaveeti/my_ai_portfolio)
 > A collection of frontier AI experiments — from **fine-tuning Llama 3.1 with QLoRA** to cloud deployment pipelines on **Modal**.
 
