@@ -57,20 +57,15 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 <tr>
 <td width="50%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
-
 ### 🔬 [Skin AI — Skin Cancer Detection](https://github.com/Rajasrikondaveeti/skin-ai)
-
 > Dual-backbone ensemble (**ResNet50 + EfficientNetV2-S**) trained on HAM10000 to classify 7 skin lesion types. Includes **Grad-CAM** heatmaps and a live Hugging Face demo.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![HF Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HF Spaces](https://img.shields.io/badge/HF_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </td>
-</tr>
 <td width="50%" valign="top">
 
 ### 🧪 [AI Portfolio — End-to-End Experiments](https://github.com/Rajasrikondaveeti/my_ai_portfolio)
@@ -82,6 +77,8 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 ![Modal](https://img.shields.io/badge/Modal-000?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 [Medical Image Re-Identification](https://github.com/Rajasrikondaveeti/Medical-Image-Re-Identification)
@@ -92,8 +89,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📋 [AI-Powered Kanban Board](https://github.com/Rajasrikondaveeti/kanban-board)
@@ -104,11 +99,12 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 ![Gemma](https://img.shields.io/badge/Gemma_3-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚖️ [PreLegal — Legal Agreement Platform](https://github.com/Rajasrikondaveeti/prelegal)
-
-Platform for drafting & exporting common legal agreements. Features a **split-panel NDA Creator** with live preview, 13 pre-drafted templates, and browser-based PDF export.
+> Platform for drafting & exporting common legal agreements. Features a **split-panel NDA Creator** with live preview, 13 pre-drafted templates, and browser-based PDF export.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -117,6 +113,7 @@ Platform for drafting & exporting common legal agreements. Features a **split-pa
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
