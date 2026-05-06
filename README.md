@@ -57,7 +57,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 <tr>
 <td width="50%" valign="top">
 
-<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -72,7 +71,7 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 
 </td>
 </tr>
-</table>
+<td width="50%" valign="top">
 
 ### 🧪 [AI Portfolio — End-to-End Experiments](https://github.com/Rajasrikondaveeti/my_ai_portfolio)
 > A collection of frontier AI experiments — from **fine-tuning Llama 3.1 with QLoRA** to cloud deployment pipelines on **Modal**.
