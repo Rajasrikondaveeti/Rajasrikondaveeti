@@ -4,7 +4,7 @@
 <br/>
 
 *Texas Tech University · M.S. Computer & Information Sciences (GPA: 3.6)*
-*Currently @ UnitedHealth Group · Building AI from scratch, one experiment at a time*
+*Building AI from scratch, one experiment at a time*
 
 <br/>
 
