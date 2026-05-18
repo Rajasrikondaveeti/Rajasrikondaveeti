@@ -190,10 +190,14 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 ---
 <br/>
 
+<div align="center">
+
 **⭐ Star a repo · 🤝 Let's connect on LinkedIn · 💬 Reach out anytime**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajikondaveeti7@gmail.com)
+
+</div>
 
 <br/>
 
