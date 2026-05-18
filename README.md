@@ -188,19 +188,6 @@ I'm obsessed with the intersection of **LLMs + real-world systems**. I'm deep in
 
 </div>
 
----
-
-<div align="center">
-
-### 🌱 Building in Public
-
-> Deeply exploring AI — multi-agent systems, RAG, fine-tuning, and production ML pipelines.
-> Every experiment I build gets shipped here on GitHub.
->
-> 📌 *If you're building in the AI/ML space, let's connect and collaborate!*
-
----
-
 <br/>
 
 **⭐ Star a repo · 🤝 Let's connect on LinkedIn · 💬 Reach out anytime**
