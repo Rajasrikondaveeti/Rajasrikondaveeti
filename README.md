@@ -12,11 +12,11 @@
 
 ## About Me
 
-I'm a machine learning engineer focused on the intersection of **LLMs and production systems** — RAG pipelines, multi-agent architectures, and fine-tuning applied to real-world problems.
+I'm an AI/ML Engineer focused on building production-grade AI systems — LLM applications, RAG pipelines, agentic AI, and scalable ML on the cloud.
 
-I ship what I build. Every project on this profile is something I've actually run end-to-end, not just prototyped.
+I'm passionate about turning research-grade ideas into reliable products: designing multi-agent workflows, optimizing retrieval and prompting, and shipping models that hold up outside a notebook.
 
-> Not just studying ML — engineering systems that survive in production.
+> Engineering AI systems that go from prototype to production.
 
 ---
 
@@ -47,11 +47,17 @@ Multi-source hierarchical RAG system — lecture-first retrieval with textbook f
 **[snapr](https://github.com/Rajasrikondaveeti/snapr)**
 Multi-agent AI system that finds the best deals in real time, combining LLM agents to search, compare, and rank offers across sources.
 
+**[prelegal](https://github.com/Rajasrikondaveeti/prelegal)**
+A platform for drafting common legal agreements.
+
 **[Medical-Image-Re-Identification](https://github.com/Rajasrikondaveeti/Medical-Image-Re-Identification)**
 Re-identification model for medical imaging across modalities (X-ray, MRI, CT, dermoscopic), addressing patient privacy risks in shared imaging datasets.
 
 **[my_ai_portfolio](https://github.com/Rajasrikondaveeti/my_ai_portfolio)**
 End-to-end AI experiments spanning prompt engineering, fine-tuning, and evaluation across frontier and open-source LLMs.
+
+**[skin-ai](https://github.com/Rajasrikondaveeti/skin-ai)**
+Skin lesion classification app built for dermatological image analysis.
 
 ---
 
