@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer building LLM systems that ship
 
-*M.S. Computer & Information Sciences, Texas Tech University (GPA: 3.6)*
+*M.S. Computer & Information Sciences, Texas Tech University*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasri-kondaveeti/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajasrikondaveeti)
